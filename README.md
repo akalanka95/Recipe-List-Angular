@@ -1,3 +1,18 @@
+
+# Angular 4 - Recipe-List
+
+Just a simple AngularJS App to show some of its power!.
+- Navigation with Angular routing 
+- Components Communication
+- Data Binding 
+- Observables and Pipes 
+- Working with Forms 
+- Interacting servers using Http and many more .
+
+
+![image](https://user-images.githubusercontent.com/23623253/37728130-7af70dbe-2d5f-11e8-8743-9fec648fd3f0.png)
+
+
 # N5CompleteGuide
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
